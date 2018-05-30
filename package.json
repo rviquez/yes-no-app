@@ -1,0 +1,19 @@
+{
+  "name": "yes-no-app",
+  "version": "1.0.0",
+  "description": "a decision making app",
+  "main": "main.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Viquez",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "furtive": "^2.4.0"
+  }
+}

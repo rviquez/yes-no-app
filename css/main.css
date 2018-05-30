@@ -1,0 +1,39 @@
+body {
+  font-family: 'Amaranth', sans-serif;
+  height: 100%;
+}
+
+.wrapper {
+  padding: 20px;
+}
+
+.title {
+  width: 100%;
+}
+
+.no {
+  background-color: red;
+  color: white;
+}
+
+.yes {
+  background-color: green;
+  color: white;
+}
+
+.container {
+  width: 100%;
+  height: 76vh;
+}
+
+#result {
+  position: relative;
+  top: 35%;
+  font-size: 100px;
+}
+
+#display-result {
+  width: 100%;
+  height: 100%;
+  vertical-align: center;
+}
